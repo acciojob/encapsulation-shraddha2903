@@ -9,5 +9,4 @@ public class Main {
         //name has private access in 'com.driver.RWOnly'
 
     }
-
 }
